@@ -1,5 +1,7 @@
 # UE4-Line-Of-Sight
-Line of sight systems, with custom visbility checks, smooth rotation and movement, and customizable, made into a component, so its almost plug and play, the only thing needed its a Sight Trace channel
+Line of sight systems, with custom visbility checks, smooth rotation and movement, and customizable, made into a component, so its almost plug and play, the only thing needed its a Sight Trace channel.
+It's fully comented, cleary divided and easy to understand
+The idea its to grab this system and customize it for your own game :D
 
 ![](LineOfSigth/LOS.png)
 
