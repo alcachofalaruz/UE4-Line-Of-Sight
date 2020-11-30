@@ -1,6 +1,9 @@
 # UE4-Line-Of-Sight
 Line of sight systems, with custom visbility checks, smooth rotation and movement, and customizable, made into a component, so its almost plug and play, the only thing needed its a Sight Trace channel.
 
+You might want to switch from Tick to Timers to save more performance, since a tick every frame its not needed to achieve a good looking Line of sight
+
+
 It's fully comented, cleary divided and easy to understand.
 
 The idea its to grab this system and customize it for your own game :D
